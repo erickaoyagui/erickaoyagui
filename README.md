@@ -1,10 +1,16 @@
 # Hello there
 
-<h3>About me</h3>
+## About me
 
 I'm Erick Aoyagui, a dedicated software engineer with a passion for creating innovative solutions and exploring the ever-evolving tech landscape. I thrive on challenges and believe in the power of code to make a positive impact. I'm currently working as a software engineer at Itaú Unibanco, where I'm actively involved in building cutting-edge financial solutions to meet the evolving needs of customers.
 
-<h3>Expertise</h3>
+## Expertise
+
+I've embarked on a rewarding journey in the world of technology, continuously expanding my expertise and embracing a wide range of skills. Over the years, I've honed my abilities in various domains, both professionally and through personal projects.
+
+In my professional career, I've had the privilege to work extensively with technologies such as .NET and C#, developing robust APIs and applications, delivering efficient and scalable solutions.
+
+In addition to my professional work, I've undertaken personal projects to further diversify my skill set, using other technologies such as Android Development, Raspberry, Docker and Cloud.
 
 **Languages**: 
 ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
@@ -38,6 +44,11 @@ I'm Erick Aoyagui, a dedicated software engineer with a passion for creating inn
 <a href="https://github.com/erickaoyagui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickaoyagui&theme=dracula&show_icons=true" />
 </a>
+
+## Beyond the Code:
+
+Outside of the code editor, I'm an avid learner, constantly exploring emerging technologies and industry trends. I'm open to collaborations, discussions, and any opportunity to make a positive impact in the tech community.
+
 
 <h3>Where to find me</h3>
 
